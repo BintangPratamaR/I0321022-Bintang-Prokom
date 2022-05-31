@@ -1,0 +1,6 @@
+Nama : Bintang
+Umur : 20 
+Alamat : Surakarta
+Nama: Alex
+Umur: 19
+Alamat: Malang
